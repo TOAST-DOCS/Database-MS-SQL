@@ -4,9 +4,9 @@ MS-SQLバージョン、CPU、メモリ、ディスクを選択して、希望�
 
 ## 機能
 - データベースエンジンサービス
-  - SQL Serverのコピー
-  - 検索のための全体テキストおよびセマンティックの抽出(Full-text Search)
-  - Data Quality Services
-- Analysis Services	
-- Reporting Services
-- Integration Services
+    - SQL Serverのイメージコピー作成
+    - 検索のための全体テキストおよびセマンティックの抽出(フルテキスト検索)
+    - 安全性と機能性の高いデータ構築、管理機能
+- データ分析機能	
+- レポート表示
+- データを利用した統合的なソリューション
