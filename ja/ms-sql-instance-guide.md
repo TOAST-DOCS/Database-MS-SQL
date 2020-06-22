@@ -10,7 +10,7 @@ MS-SQL Instance作成 **ショートカット** ボタンをクリックする�
 MS-SQLイメージ選択後、追加設定完了後にインスタンスを作成します。
 インスタンス作成の詳細内容は、[Instance概要](https://docs.toast.com/ko/Compute/Instance/ko/overview/)を参照してください。
 
-インスタンス作成完了後、RDP(Remote Desktop Protocol)を活用してインスタンスにアクセスします。
+インスタンス作成完了後、RDP(リモートデスクトップププロトコル)を通じてインスタンスにアクセスします。
 インスタンスにFloating IPが接続されている必要があり、セキュリティーグループでTCPポート3389(RDP)が許可されている必要があります。
 **+ パスワード確認** ボタンをクリックし、インスタンス作成時に設定したキーペアを使用してパスワードを確認します。
 
@@ -56,8 +56,8 @@ SQL Server構成管理者を実行します。
 
 ### 3. 外部からのMS-SQLデータベース接続許容設定
 
-外部からMS-SQLデータベースに接続するために、 **Network > Security Group** でMS-SQLサービスポートをSecurity Groupに追加する必要があります。
-Security Groupに追加する時、接続を許可するMS-SQLサービスポート(基本ポート：1433)および遠隔IPを登録します。 
+外部からMS-SQLデータベースに接続するために、 **Network > Security Group** でMS-SQLサービスポートをSecurity Groupsに追加する必要があります。
+Security Groupsに追加する時、接続を許可するMS-SQLサービスポート(基本ポート：1433)および遠隔IPを登録します。 
 
 ## データボリューム割り当て
 
