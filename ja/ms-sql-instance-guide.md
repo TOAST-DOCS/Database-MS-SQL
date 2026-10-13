@@ -8,7 +8,7 @@ MS-SQL Instance作成 **ショートカット** ボタンをクリックする�
 ![mssqlinstance_01_201812](https://static.toastoven.net/prod_ms_sql/mssqlinstance_01_201812_en.png)
 
 MS-SQLイメージ選択後、追加設定完了後にインスタンスを作成します。
-インスタンス作成の詳細内容は、[Instance概要](https://docs.toast.com/ko/Compute/Instance/ko/overview/)を参照してください。
+インスタンス作成の詳細内容は、[Instance概要](https://docs.nhncloud.com/ko/Compute/Instance/ko/overview/)を参照してください。
 
 インスタンス作成完了後、RDP(リモートデスクトップププロトコル)を通じてインスタンスにアクセスします。
 インスタンスにFloating IPが接続されている必要があり、セキュリティーグループでTCPポート3389(RDP)が許可されている必要があります。

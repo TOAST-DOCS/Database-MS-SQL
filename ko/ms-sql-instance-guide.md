@@ -8,7 +8,7 @@ MS-SQL를 사용하기 위해서 먼저 인스턴스를 생성해야합니다.
 
 MS-SQL Instance 생성하기 **바로가기** 버튼을 클릭하면 **Compute > Instance > 인스턴스 생성**로 넘어갑니다.
 MS-SQL 이미지 선택 후 추가 설정 완료 후 인스턴스를 생성합니다.
-인스턴스 생성에 대한 자세한 내용은 [Instance 개요](https://docs.toast.com/ko/Compute/Instance/ko/overview/)를 참고하시기 바랍니다. 
+인스턴스 생성에 대한 자세한 내용은 [Instance 개요](https://docs.nhncloud.com/ko/Compute/Instance/ko/overview/)를 참고하시기 바랍니다. 
 
 인스턴스 생성 완료 후 RDP(Remote Desktop Protocol)을 활용하여 인스턴스에 접근합니다.
 인스턴스에 Floating IP가 연결되어 있어야 하며 보안그룹에서 TCP 포트 3389(RDP)가 허용되어야 합니다.

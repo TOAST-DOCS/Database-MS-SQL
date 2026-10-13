@@ -8,7 +8,7 @@ To use Microsoft SQL, it is required to create an instance first.
 
 Click **Shortcuts** next to **Create Microsoft SQL Instances** to go to **Compute > Instance > Create Instances**.
 Select Microsoft SQL image, complete additional settings, and create an instance.
-For more details on creating instances, see [Instance Overview](https://docs.toast.com/ko/Compute/Instance/ko/overview/). 
+For more details on creating instances, see [Instance Overview](https://docs.nhncloud.com/ko/Compute/Instance/ko/overview/). 
 
 After instance is created, access the instance by using Remote Desktop Protocol (RDP). 
 To that end, an instance must be associated with a floating IP and TCP port 3389 (RDP) must be allowed for security group. 
